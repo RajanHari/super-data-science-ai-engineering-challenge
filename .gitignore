@@ -1,0 +1,6 @@
+.env
+.claude
+ai_env/
+.ipynb_checkpoints/
+*.code-workspace
+.ai-engineering.code-workspace
