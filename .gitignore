@@ -4,3 +4,5 @@ ai_env/
 .ipynb_checkpoints/
 *.code-workspace
 .ai-engineering.code-workspace
+chroma_db/
+chroma_db_twin/
