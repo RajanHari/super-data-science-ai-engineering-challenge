@@ -6,3 +6,6 @@ ai_env/
 .ai-engineering.code-workspace
 chroma_db/
 chroma_db_twin/
+chroma_db3/
+.DS_Store
+AI Engineering Part 1/digital-twin/
